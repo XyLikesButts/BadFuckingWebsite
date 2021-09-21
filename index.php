@@ -51,7 +51,7 @@
 
     	<div style="margin: 5vw;">
 			<span>
-				<img src="/aloha.png" alt="Aloha!" style="width: 50vw;">
+				<img src="/aloha.png" alt="Aloha!" style="width: 48vw;">
 			</span>
 
 			<span style="background-color: rgba(200,200,200,0.9); vertical-align: top; padding: 1vw; margin: 2vw; font-size: 1vw; width: 30vw; border-radius: 0.3vw; border-style: solid; border-width: 0.1vw; border-color: rgba(0,0,0,0.9); display: inline-block;">

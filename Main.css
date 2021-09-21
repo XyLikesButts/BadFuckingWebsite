@@ -29,7 +29,7 @@ body {background-image: url(/background.jpg); background-size: 100vw; font-famil
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
-	position: relative;
+	/*position: relative;*/
 }
 .navbarbutton:hover{
 	cursor: pointer;
@@ -68,6 +68,7 @@ body {background-image: url(/background.jpg); background-size: 100vw; font-famil
 	border-color: rgba(0,0,0,0.9);
 	text-decoration: none;
 	display: inline-block;
+	text-indent: 2vw;
 }
 
 #footer{

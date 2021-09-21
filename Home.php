@@ -51,26 +51,36 @@
 					</a>
 				</div>
 
+				<div style="margin: 1.5vw">
+					<span class="textparagraph">
+						<b>WIP:<br>
+						All Toy projects are placeholders. I'm slowly filling in reviews, but this place is still really empty.<br>
+						Take a look at the changelog to see what exactly is getting fixed.</b>
+					</span>
+				</div>
+
 				<div class="textheader">
 					Welcome to my Website!
 				</div>
 
 				</br>
 
-				<div>
+				<div style="margin: 1.5vw">
 					<span class="textparagraph" style="width: 63vw; vertical-align: top;">
 						Hello! I'm assuming if you’re reading this you already know who I am, but if not... Hi I'm Xy. I’ve been complaining for a hell of long time about how various platforms consistently fail to deliver the social media experience that I’m looking for.  So, this site is my attempt to have more control over things. The goal here is to post a lot of the content I have hosted other places, as well as maybe trying some new things that never fit in the older places. I'm writing this 100% from scratch and I have absolutely no web design experience, so things are bound to be janky, but I hope you’ll join me in this adventure. For now, check out what works, and if shit doesn't work for you then use the links at the bottom to find me and let me know! </br>
 						</br>
 						-Xy <3
 					</span>
 
-					<span style="margin: 1vw;">
+					<span style="margin: 1vw; margin-right: 0vw;">
 						<a href="http://www.twitter.com/badfuckingdog">
-							<img src="/xyplaceholder.png" alt="It me!" style="width: 25vw;" title="It me!">
+							<img src="/xyplaceholder.png" alt="It me!" style="width: 23vw;" title="It me!">
 						</a>
 					</span>
 				</div>
 			</div>
+
+			<span style="display:block; height: 4vw;"></span>
 
 			<div id="footer">
 				<a href="http://www.twitter.com/badfuckingdog">

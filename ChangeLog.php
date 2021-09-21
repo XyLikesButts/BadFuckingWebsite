@@ -52,17 +52,49 @@
 				</div>
 
 				<div class="textheader">
+					9/19/2021
+				</div>
+
+				</br>
+
+				<div class="textparagraph" style="text-indent: initial;">
+					-Filled in Big Green toy review page.<br>
+					-Added the Sea Dragon toy review page.<br>
+					-Added the Pink Condom toy Review page.<br>
+					-Updated the Fursuit page to make it functional.<br>
+					-Updated the Game page to make it functional.<br>
+					-Fixed the god damn change log. (irony)
+				</div>
+
+				</br>
+
+				<div class="textheader">
+					9/12/2021
+				</div>
+
+				</br>
+
+				<div class="textparagraph" style="text-indent: initial;">
+					-No more grids in the review tab to keep mobile looking nice.<br>
+					-Pinned down the format I want to use for reviews with the Sohimi toy.<br>
+					-Added Big Green to the review tab.<br>
+					-Finished the Sohimi tab finally.
+				</div>
+
+				</br>
+
+				<div class="textheader">
 					9/11/2021
 				</div>
 
 				</br>
 
-				<div class="textparagraph">
+				<div class="textparagraph" style="text-indent: initial;">
 					-Started filling in the review tab.</br>
 					-Added the sponsored block in reviews.</br>
 					-Decided on changelog formatting.</br>
 					-Added the first toy review tab for the Sohimi toy.</br>
-					
+					-Set up a git repo for the website. (Holy fuck githubs new 2fa is TERRIBLE).</br>
 				</div>
 
 				</br>
@@ -73,8 +105,8 @@
 
 				</br>
 
-				<div class="textparagraph">
-					Added the change log! Wow!
+				<div class="textparagraph" style="text-indent: initial;">
+					-Added the change log! Wow!
 				</div>
 
 				</br>
@@ -85,12 +117,14 @@
 
 				</br>
 
-				<div class="textparagraph">
+				<div class="textparagraph" style="text-indent: initial;">
 					-Figured out how to host a website on a fully remote debian machine.</br>
 					-Learned some html and css to make a landing page and a basic index tab under toy projects.
 				</div>
 
 			</div>
+
+			<span style="display:block; height: 4vw;"></span>
 
 			<div id="footer">
 				<a href="http://www.twitter.com/badfuckingdog">

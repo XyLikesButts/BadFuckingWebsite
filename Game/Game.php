@@ -20,84 +20,46 @@
 						<img src="/watermarkheader.png" alt="Header" style="width: 20vw; background-color: rgba(0,0,0,0.2); border-radius: 0.9vw;" title="Looks Familiar...">
 					</a>
 
-					<a href="/ToyProjects/ToyProjects.php" style="background-color: rgba(200,150,200,1); border-radius: 0.3vw; text-decoration: none; color: black;">
+					<a href="/ToyProjects/ToyProjects.php" style="text-decoration: none; color: black;">
 						<span class="navbarbutton">
 							Toy Projects
 						</span>
 					</a>
 
-					<a href="/Broken.php" style="text-decoration: none; color: black;">
+					<a href="/ToyReviews/ToyReviews.php" style="text-decoration: none; color: black;">
 						<span class="navbarbutton">
 							Toy Reviews
 						</span>
 					</a>
 
-					<a href="/Broken.php" style="text-decoration: none; color: black;">
+					<a href="/Fursuit/Fursuit.php" style="text-decoration: none; color: black;">
 						<span class="navbarbutton">
 							Fursuit Progress
 						</span>
 					</a>
 
-					<a href="/Broken.php" style="text-decoration: none; color: black;">
+					<a href="/Game/Game.php" style="background-color: rgba(200,150,200,1); border-radius: 0.3vw; text-decoration: none; color: black;">
 						<span class="navbarbutton">
 							Game Progress
+						</span>
+					</a>
+
+					<a href="/ChangeLog.php" style="text-decoration: none; color: black;">
+						<span class="navbarbutton">
+							Changelog
 						</span>
 					</a>
 				</div>
 
 				
-				<div class="textparagraph">
-					I've been messing around with making my own toys for a few years now. It's <b>a lot</b> harder than I ever imagined it would be. This is pretty much a gallery on how many ways you can get it wrong, and I still havent gotten to the point where I could market these in good faith. But I'm getting close, so maybe someday soon.
+				<div class="textparagraph" style="margin: 1.5vw;">
+					I think the word 'longshot' is an understatement for this one. For the past year or so I've been messing around with making a game in my free time. I have a lot of ideas that I'd like to mash together, and the basics of a story. But game development is literally something people get degrees in. Learning it for fun is a serious task. Once I get it somewhere vaugely presentable I'll post updates here.
 				</div>
 
-				
-				<div style="margin: 1.5vw; display: grid; grid-gap: 1vw; grid-template-columns: 23vw 23vw 23vw 23vw; grid-template-rows: 10vw 10vw;">
-					<div class="grid-item">
-						</br></br></br>
-						<a href="/Broken.php" style="text-decoration: none; color: black; margin: 2vw;">
-							<span class="navbarbutton">
-								Toy Projects 1
-							</span>
-						</a>
-					</div>
-
-					<div class="grid-item">
-						</br></br></br>
-						<a href="/Broken.php" style="text-decoration: none; color: black; margin: 2vw;">
-							<span class="navbarbutton">
-								Toy Projects 2
-							</span>
-						</a>
-					</div>
-
-					<div class="grid-item">
-						</br></br></br>
-						<a href="/Broken.php" style="text-decoration: none; color: black; margin: 2vw;">
-							<span class="navbarbutton">
-								Toy Projects 3
-							</span>
-						</a>
-					</div>
-
-					<div class="grid-item">
-						</br></br></br>
-						<a href="/Broken.php" style="text-decoration: none; color: black; margin: 2vw;">
-							<span class="navbarbutton">
-								Toy Projects 4
-							</span>
-						</a>
-					</div>
-
-					<div class="grid-item">
-						</br></br></br>
-						<a href="/Broken.php" style="text-decoration: none; color: black; margin: 2vw;">
-							<span class="navbarbutton">
-								Toy Projects 5
-							</span>
-						</a>
-					</div>
-				</div>
+				<img src="/Game/uelogo.jpg" alt="Unreal Logo" style="width: 30vw; margin: 2.5vw;" title="Yeah I chose Unreal over Unity. Fight me.">
 			</div>
+
+			<span style="display:block; height: 6vw;"></span>
 
 			<div id="footer">
 				<a href="http://www.twitter.com/badfuckingdog">

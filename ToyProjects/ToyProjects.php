@@ -52,7 +52,7 @@
 				</div>
 
 				
-				<div class="textparagraph">
+				<div class="textparagraph" style="margin: 1.5vw">
 					I've been messing around with making my own toys for a few years now. It's <b>a lot</b> harder than I ever imagined it would be. This is pretty much a gallery on how many ways you can get it wrong, and I still havent gotten to the point where I could market these in good faith. But I'm getting close, so maybe someday soon.
 				</div>
 
